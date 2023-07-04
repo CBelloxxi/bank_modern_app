@@ -18,4 +18,4 @@ The next steps to continue building this into a fully fledged app would be to bu
 
 <h2>Mobile View</h2>
 
-<> <p align="center"> ![HooBank Modern Bank Mobile Gif](https://github.com/CBelloxxi/bank_modern_app/blob/main/hoobankmobilegiphy.gif) </p>
+<br/> <p align="center"> ![HooBank Modern Bank Mobile Gif](https://github.com/CBelloxxi/bank_modern_app/blob/main/hoobankmobilegiphy.gif) </p>

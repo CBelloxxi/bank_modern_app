@@ -16,4 +16,4 @@
 <h2>Improve or Change</h2>
 The next steps to continue building this into a fully fledged app would be to build a back end application in which you can sign up, sign-in and potentially use 2FA for authentication to then be able to go into a customer HooBank account and also build an admin panel to monitor account usage, integrate a Map API - either mapbox or google maps to present a location for the nearest HooBank branch (if it is a physical store). <br/>
 
-![HooBank Modern Bank Mobile Gif](https://github.com/CBelloxxi/bank_modern_app/blob/main/hoobankmobilegiphy.gif) 
+<br/> ![HooBank Modern Bank Mobile Gif](https://github.com/CBelloxxi/bank_modern_app/blob/main/hoobankmobilegiphy.gif) 
